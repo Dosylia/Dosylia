@@ -1,4 +1,4 @@
-### Hi there 👋, Emma Montbarbon
+### Hi there 👋
 #### Web Developer
 ![Web Developer](https://i.postimg.cc/1zyK0X7n/banneremma.png)
 
